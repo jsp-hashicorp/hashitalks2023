@@ -5,7 +5,7 @@
 - 2. state 파일 백업
 - 3. 작업 대상 Workspace 생성
 - 4. state 내 필요 정보 확인 후 state 파일 이관
-- 발표 자료 내려 받기 : [`[HashiTalks_Korea 2023]Terraform_CE_to_Enterprise_migration.pdf`]([HashiTalks_Korea 2023]Terraform_CE_to_Enterprise_migration.pdf)
+- 발표 자료 내려 받기 : [HashiTalks_Korea_2023_Terraform_CE_to_Enterprise_migration.pdf](HashiTalks_Korea_2023_Terraform_CE_to_Enterprise_migration.pdf)
 
 ## 1. 작업 환경 준비
 작업 대상 Workspace을 이관 대상 Workspace이름과 동일하게 생성 (로컬 디렉토리).
